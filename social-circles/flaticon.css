@@ -1,0 +1,76 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-social-network258:before {
+	content: "\e000";
+}
+.flaticon-social-network259:before {
+	content: "\e001";
+}
+.flaticon-social-network260:before {
+	content: "\e002";
+}
+.flaticon-social-network261:before {
+	content: "\e003";
+}
+.flaticon-social-network262:before {
+	content: "\e004";
+}
+.flaticon-social-network263:before {
+	content: "\e005";
+}
+.flaticon-social-network264:before {
+	content: "\e006";
+}
+.flaticon-social-network265:before {
+	content: "\e007";
+}
+.flaticon-social-network266:before {
+	content: "\e008";
+}
+.flaticon-social-network267:before {
+	content: "\e009";
+}
+.flaticon-social-network268:before {
+	content: "\e00a";
+}
+.flaticon-social-network269:before {
+	content: "\e00b";
+}
+.flaticon-social-network270:before {
+	content: "\e00c";
+}
+.flaticon-social-network271:before {
+	content: "\e00d";
+}
+.flaticon-social-network272:before {
+	content: "\e00e";
+}
+.flaticon-social-network273:before {
+	content: "\e00f";
+}
+.flaticon-social-network274:before {
+	content: "\e010";
+}
+.flaticon-social-network275:before {
+	content: "\e011";
+}
+.flaticon-social-network276:before {
+	content: "\e012";
+}
+.flaticon-social-network277:before {
+	content: "\e013";
+}
