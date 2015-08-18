@@ -2,11 +2,11 @@
 
 <html>
 <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>It solucion</title>
     <link rel="stylesheet" href="bootstrap-3.3.5-dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="bootstrap-3.3.5-dist/css/bootstrap.css">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="bootstrap-3.3.5-dist/css/style.css">
     <script type="text/javascript" src="bootstrap-3.3.5-dist/js/jquery.min.js"></script>
 </head>
