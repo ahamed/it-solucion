@@ -11,16 +11,16 @@
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav navbar-left" style="color: white; ">
-                <li class="active"><a href="#">Home</a></li>
-                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"> Varsity<b class="caret"></b></a>
+                <li class="active"><a class="page-scroll" href="#services"> Our Services</a></li>
+                <!--<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"> Varsity<b class="caret"></b></a>
                     <ul class="dropdown-menu">
-                        <li ><a href="#">Shanto chottor</a> </li>
-                        <li ><a href="#">Kathal chottor</a> </li>
+                        <li ><a href="#">Shanto Chottor</a> </li>
+                        <li ><a href="#">Muri Chottor</a> </li>
                     </ul>
-                </li>
-                <li class=""><a href="#"> Theater</a></li>
-                <li class=""><a href="#"> Park</a></li>
-                <li class=""><a href="#"> Contact</a></li>
+                </li>-->
+                <li class=""><a class="page-scroll" href="#portfolio"> Portfolio</a></li>
+                <li class=""><a class="page-scroll" href="#about_us"> About Us</a></li>
+                <li class=""><a class="page-scroll" href="#contact"> Contact</a></li>
             </ul>
         </div>
 
