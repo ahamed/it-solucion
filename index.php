@@ -18,24 +18,21 @@
 
         </div><!--end header row-->
 
-
+        <?php include"menu.php";?>
         <div class="row" id="mid-part">
 
             <div class="col-md-8" id="content">
                 <div class="">
-                    This is a very initial work.
-                    This is a very initial work.
+                    <p>
+                        This is a very initial work.
+                        This is a very initial work.
+                    </p>
+
                 </div>
             </div><!--end left side -->
 
             <div class="col-md-4" id="navigation">
-                <ul>
-                    <li>Home</li>
-                    <li>Home</li>
-                    <li>Home</li>
-                    <li>Home</li>
-                    <li>Home</li>
-                </ul>
+
             </div><!--end right side-->
 
         </div><!-- end mid part div-->
