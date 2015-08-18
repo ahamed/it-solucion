@@ -7,7 +7,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="#" class="navbar-brand"><b>itSolucion</b></a>
+            <a href="#page-top" class="navbar-brand page-scroll"><b>itSolucion</b></a>
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav navbar-left" style="color: white; ">
