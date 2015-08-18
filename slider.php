@@ -1,4 +1,4 @@
-<div class="carousel slide" id="Carousel" data-interval="3000" >
+<div class="carousel slide" id="Carousel" data-interval="3000" data-ride="carousel">
 
     <ol class="carousel-indicators" data-target="#Carousel">
         <li class="active" data-slide-to="0" data-target="#Carousel"></li>
@@ -8,6 +8,7 @@
     <div class="carousel-inner" >
         <div class="item active" id="bk1">
             <div class="carousel-caption">
+                <!-- <img src="social-circles/png/social-network276.png">-->
                 <p class="carousel-caption">
                     This is carousel first item;
                 </p>
@@ -32,7 +33,9 @@
 
     </div><!--end carousel inner-->
 
-    <a class="left carousel-control" data-slide="prev" href="#Carousel"><span class="icon-prev"></a>
+    <a class="left carousel-control" data-slide="prev" href="#Carousel"><span class="icon-prev"></span></a>
     <a class="right carousel-control" data-slide="next" href="#Carousel"><span class="icon-next"></span> </a>
 
 </div><!--end main carousel-->
+
+<!--<script src="bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>-->
