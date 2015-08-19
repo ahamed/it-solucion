@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bdcc356-a171-4cae-8e10-a745f72743ca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.5-dist/css/name-design.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.5-dist/js/textiffect.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu.php" afterPath="$PROJECT_DIR$/menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap-3.3.5-dist/css/scrolling-nav.css" afterPath="$PROJECT_DIR$/bootstrap-3.3.5-dist/css/scrolling-nav.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap-3.3.5-dist/js/scrolling-nav.js" afterPath="$PROJECT_DIR$/bootstrap-3.3.5-dist/js/scrolling-nav.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap-3.3.5-dist/css/style.css" afterPath="$PROJECT_DIR$/bootstrap-3.3.5-dist/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8bdcc356-a171-4cae-8e10-a745f72743ca" name="Default" comment="" />
     <ignored path="it-solucion.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -38,8 +28,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.8078175" vertical-offset="378" max-vertical-offset="3510">
-              <caret line="185" column="95" selection-start-line="185" selection-start-column="95" selection-end-line="185" selection-end-column="95" />
+            <state vertical-scroll-proportion="0.5276873" vertical-offset="378" max-vertical-offset="3510">
+              <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -510,8 +500,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.8078175" vertical-offset="378" max-vertical-offset="3510">
-          <caret line="185" column="95" selection-start-line="185" selection-start-column="95" selection-end-line="185" selection-end-column="95" />
+        <state vertical-scroll-proportion="0.5276873" vertical-offset="378" max-vertical-offset="3510">
+          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
           <folding />
         </state>
       </provider>
