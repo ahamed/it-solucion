@@ -27,7 +27,7 @@
 
         <div class="row" id="mid-part">
 
-            <div class="col-md-8" id="content">
+            <div class="col-md-12" id="content">
                 <div class="">
                     <div id="services">
                         <div id="deg-service">
@@ -35,7 +35,7 @@
 
                             </div>
                             <div class="mid-portion">
-                                <h2 class="tlts" data-in-effect="fadeInLeftBig">Our Services</h2>
+                                <h2 class="tlts" data-in-effect="fadeInLeftBig">SERVICES</h2>
                             </div>
                             <div class="right-portion">
 
@@ -70,7 +70,7 @@
 
                             </div>
                             <div class="mid-portion">
-                                <h2 class="tltp" data-in-effect="fadeInLeftBig">Portfolio</h2>
+                                <h2 class="tltp" data-in-effect="fadeInLeftBig">PORTFOLIO</h2>
                             </div>
                             <div class="right-portion">
 
@@ -110,7 +110,7 @@
 
                             </div>
                             <div class="mid-portion">
-                                <h2 class="tlta" data-in-effect="fadeInLeftBig">About Us</h2>
+                                <h2 class="tlta" data-in-effect="fadeInLeftBig">ABOUT</h2>
                             </div>
                             <div class="right-portion">
 
@@ -140,7 +140,7 @@
 
                             </div>
                             <div class="mid-portion">
-                                <h2 class="tltc" data-in-effect="fadeInLeftBig">Contact</h2>
+                                <h2 class="tltc" data-in-effect="fadeInLeftBig">CONTACT</h2>
                             </div>
                             <div class="right-portion">
 
@@ -167,7 +167,7 @@
                 </div>
             </div><!--end left side -->
 
-            <div class="col-md-4 " id="navigation" >
+            <!--<div class="col-md-4 " id="navigation" >
 
             </div><!--end right side-->
 

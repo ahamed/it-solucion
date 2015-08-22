@@ -11,16 +11,16 @@
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav navbar-left" style="color: white; ">
-                <li class="active"><a class="page-scroll" href="#services"> Our Services</a></li>
+                <li class="active"><a class="page-scroll" href="#services">SERVICES</a></li>
                 <!--<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"> Varsity<b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li ><a href="#">Shanto Chottor</a> </li>
                         <li ><a href="#">Muri Chottor</a> </li>
                     </ul>
                 </li>-->
-                <li class="ps"><a class="page-scroll" href="#portfolio"> Portfolio</a></li>
-                <li class="ps"><a class="page-scroll" href="#about_us">About us</a> </li>
-                <li class="ps"><a class="page-scroll" href="#contact"> Contact</a></li>
+                <li class="ps"><a class="page-scroll" href="#portfolio">PORTFOLIO</a></li>
+                <li class="ps"><a class="page-scroll" href="#about_us">ABOUT</a> </li>
+                <li class="ps"><a class="page-scroll" href="#contact"> CONTACT</a></li>
             </ul>
         </div>
 

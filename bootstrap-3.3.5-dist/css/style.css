@@ -1,9 +1,9 @@
 #content{
-    background-color: #1b6d85;
+
 
 }
 #navigation{
-    background-color: #31b0d5;
+    #background-color: #31b0d5;
 }
 
 img{
@@ -11,7 +11,7 @@ img{
     height: 30px;
 }
 #Carousel{
-    margin-top: 55px;
+    margin-top: 95px;
     width: 100%;
     background-color: cadetblue;
 
