@@ -24,31 +24,34 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 80px;
     text-align: center;
-    #background: #fff;
-    background-color: #101010;
+    background-color: #111111;
+    padding-bottom: 60px;
+
 }
 
 #portfolio {
     height: 100%;
     text-align: center;
-    #background: #eee;
     padding-top: 80px;
     background-color: #111111;
+    padding-bottom: 60px;
+
 }
 
 #about_us {
     height: 100%;
     padding-top: 80px;
     text-align: center;
-    #background: #fff;
-    background-color: #101010;
+    background-color: #111111;
+    padding-bottom: 60px;
+
 }
 
 #contact {
     height: 100%;
     padding-top: 80px;
     text-align: center;
-    #background: #eee;
     background-color: #111111;
+    padding-bottom: 60px;
 
 }

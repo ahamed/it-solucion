@@ -10,4 +10,6 @@ $(document).ready(function(){
         animation: "dissolve",
         speed: 2000
     });
+    var width = $("#mid-part").width();
+    //alert(width);
 });

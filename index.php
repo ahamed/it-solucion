@@ -28,7 +28,7 @@
         <div class="row" id="mid-part">
 
             <div class="col-md-12" id="content">
-                <div class="">
+                <div class="pentagon" >
                     <div id="services">
                         <div id="deg-service">
                             <div class="left-portion">
@@ -64,7 +64,8 @@
                         This portion define our services</br>
                         This portion define our services</br>
                     </div>
-                    <div id="portfolio">
+                    <div class="page-breaker" id="p-breaker"></div>
+                    <div id="portfolio" class="pentagon">
                         <div id="deg-portfolio">
                             <div class="left-portion">
 
@@ -104,7 +105,8 @@
                         This portion Define our portfolio</br>
                         This portion Define our portfolio</br>
                     </div>
-                    <div id="about_us">
+                    <div class="page-breaker" id="a-breaker"></div>
+                    <div id="about_us" class="box effect2">
                         <div id="deg-about">
                             <div class="left-portion">
 
@@ -134,7 +136,8 @@
                         This portion Define about ourserlves</br>
                         This portion Define about ourserlves</br>
                     </div>
-                    <div id="contact">
+                    <div class="page-breaker" id="c-breaker"></div>
+                    <div id="contact" class="pentagon">
                         <div id="deg-contact">
                             <div class="left-portion">
 

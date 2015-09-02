@@ -15,6 +15,7 @@ img{
     width: 100%;
     background-color: cadetblue;
 
+
 }
 #Carousel .item{
     height: 300px;
@@ -49,4 +50,35 @@ li.active{
 #top-navbar{
     font-family: cursive;
     font-weight: bold;
+}
+
+#p-breaker{
+
+    background-image: url("../../images/background.png");
+    background-color: #111111;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    
+}
+#a-breaker{
+
+    background-image: url("../../images/background.png");
+    background-color: #111111;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+
+}
+#c-breaker{
+
+    background-image: url("../../images/background.png");
+    /*background-position: center;*/
+    background-color: #111111;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+
 }
