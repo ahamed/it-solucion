@@ -10,8 +10,8 @@
     <link rel="stylesheet" href="bootstrap-3.3.5-dist/css/bootstrap.css">
     <link rel="stylesheet" href="bootstrap-3.3.5-dist/css/style.css">
     <link rel="stylesheet" href="bootstrap-3.3.5-dist/css/name-design.css">
-    <link rel="stylesheet" href="textillate/assets/animate.css">
-    <link rel="stylesheet" href="simple-text-rotator/simpletextrotator.css">
+    <link rel="stylesheet" href="text/assets/animate.css">
+    <link rel="stylesheet" href="simple/simpletextrotator.css">
     <script type="text/javascript" src="bootstrap-3.3.5-dist/js/jquery.min.js"></script>
     <script type="text/javascript" src="bootstrap-3.3.5-dist/js/scrolling-nav.js"></script>
     <script type="text/javascript" src="bootstrap-3.3.5-dist/js/jquery.easing.min.js"></script>
